@@ -5,7 +5,7 @@ Two weeks ago Spotify's CEO said the company's top developers "[have not written
 
 Yet It's hard to reconcile these stories with the [day-to-day reality](https://news.ycombinator.com/item?id=44860731) for engineers in the trenches. Some things are easier and faster to build but many software projects remain just as challenging. What's going on? Is everyone lying?
 
-Not quite. Sometimes there's a financial interest in saying these things (merely mentioning AI can move your stock price/valuation/# of applicants to your startup accelerator).
+Not quite. Sometimes there's a financial interest (merely mentioning AI can move your stock price/valuation/# of applicants to your startup accelerator).
 
 But the real reason for the disconnect is that not all programming tasks are the same. And coding was never the hard part of shipping complex software.
 
