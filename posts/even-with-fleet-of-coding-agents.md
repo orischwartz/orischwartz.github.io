@@ -21,6 +21,6 @@ A few years later one of the maintainers of the Guava open source project [expla
 
 Would these 15+ year-old anecdotes play out differently today? Not really. AI saves you from typing a lot of the boilerplate code but coding agents would fail to produce a scalable, polished, production-ready version of StackExchange. You could build a passable clone quickly but you will overlook key features and your AI implementation would collapse under real world traffic.
 
-AI is great at writing code. It does make engineers faster. It's incredibly valuable for teams shipping software with low-stakes (e.g., a first version a startup uses to validate an idea).
+AI is great at writing code. It does make engineers faster. It's incredibly valuable for teams shipping software with low-stakes (e.g., the first version a startup uses to validate an idea).
 
 But for most complex applications this was never the bottleneck.
