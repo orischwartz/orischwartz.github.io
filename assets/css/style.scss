@@ -1,5 +1,8 @@
+---
+---
+
 @import "{{ site.theme }}";
 
-h1 {
+.markdown-body > h1 {
   display: none;
 }
