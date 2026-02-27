@@ -19,7 +19,7 @@ One of the engineers on the team saw the comment and [pointed out](https://www.b
 
 A few years later one of the maintainers of the Guava open source project [explained](https://web.archive.org/web/20181209133202/https://plus.google.com/113026104107031516488/posts/ZRdtjTL1MpM) why they never accepted patches (external contributions to the codebase). The work done to produce a patch is minuscule compared to what's required to integrate it internally: reviews, compatibility, migration of legacy code, documentation, testing, long-term maintenance, etc. And after all that grunt work, writing code was the fun reward. Why give that up?
 
-Would these 15+ year-old anecdotes play out differently today? Not really. AI saves you from typing a lot of the boilerplate code but coding agents would fail to produce a scalable, polished, production-ready version of StackExchange. You could build a passable clone quickly but you will overlook key features and your AI implementation would collapse under real world traffic.
+Would these 15+ year-old anecdotes play out differently today? Not really. AI saves you from typing a lot of the boilerplate code but coding agents would fail to produce a scalable, polished, production-ready version of StackExchange. You could build a passable clone quickly but you will overlook key features and your AI implementation will collapse under real world traffic.
 
 AI is great at writing code. It does make engineers faster. It's incredibly valuable for teams shipping software with low-stakes (e.g., the first version a startup uses to validate an idea).
 
