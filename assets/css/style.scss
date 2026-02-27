@@ -6,3 +6,19 @@
 .markdown-body > h1 {
   display: none;
 }
+
+.markdown-body .footer-links {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 0.85rem;
+  letter-spacing: 0.01em;
+}
+
+.markdown-body .footer-links a {
+  text-decoration: none;
+}
+
+.markdown-body .footer-links a:hover,
+.markdown-body .footer-links a:focus {
+  text-decoration: underline;
+}
