@@ -4,7 +4,7 @@ _March 3, 2026_
 
 A quarter-century ago Joel Spolsky [published](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) one of the most popular and frequently cited essays on his (excellent) blog. He describes Netscape's decision to rewrite their browser from scratch. It took 3 years, caused their product to stagnate, and cemented Microsoft's dominance in the nascent browser market. He calls it the "single worst strategic mistake" a software company can make.
 
-This essay is frequently revisited. You could argue the rewrite was actually important because it produced the Gecko engine (Firefox), broke Microsoft's stranglehold, and became an important part of a more competitive browser landscape.
+This essay is frequently revisited. The rewrite was actually important because it produced the Gecko engine (Firefox), broke Microsoft's stranglehold, and became an important part of a more competitive browser landscape.
 
 There are plenty of examples of both failed and successful software rewrites. Like everything else in tech, the answer to "should we do a rewrite" is: [it depends](https://convincedcoder.com/2018/08/31/It-depends/).
 
@@ -17,7 +17,7 @@ Or maybe now you do.
 I [don't believe](https://orischwartz.com/posts/even-with-fleet-of-coding-agents.html) AI coding agents are going to replace entire software businesses or good engineers any time soon. But they are indisputably valuable under the right conditions:
 
 - New/greenfield projects work better than legacy codebases.
-- Applications built on modern, popular stacks are better than old ones because they're over-represented in the training data (eg, typescript/react/tailwind).
+- Applications built on modern, popular stacks are better than old ones because they're over-represented in the training data (e.g., typescript/react/tailwind).
 - Small applications are easier to work with than larger ones.
 
 In other words, better for new projects than the legacy codebase you wanted to replace 10 years ago.
