@@ -20,9 +20,7 @@ I [don't believe](https://orischwartz.com/posts/even-with-fleet-of-coding-agents
 - Applications built on modern, popular stacks are better than old ones because they're over-represented in the training data (e.g., typescript/react/tailwind).
 - Small applications are easier to work with than larger ones.
 
-In other words, better for new projects than the legacy codebase you wanted to replace 10 years ago.
-
-(Try asking your favorite coding agent to modify an Ant build script from 2004. It will fail in creative ways.)
+In other words, better for new projects than the legacy codebase you wanted to replace 10 years ago. (Try asking your favorite coding agent to modify an Ant build script from 2004. It will fail in creative ways.)
 
 But there is one really valuable use of coding agents for legacy applications: rewrites.
 
