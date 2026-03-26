@@ -1,5 +1,6 @@
 ## Posts
 
+- [What's the biggest business you could run alone?](posts/whats-the-biggest-business-you-could-run-alone.md) - March 26, 2026
 - [Google Rewrites Applications Every Few Years. Can You?](posts/google-rewrites-applications-every-few-years.md) - March 3, 2026
 - [Even with Fleet of Coding Agents, You Still Can't Create Real Software in a Weekend](posts/even-with-fleet-of-coding-agents.md) - February 27, 2026
 
