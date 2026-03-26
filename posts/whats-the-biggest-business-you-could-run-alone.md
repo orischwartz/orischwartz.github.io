@@ -28,8 +28,8 @@ What about the number of active users? I know you can support 140k users solo be
 
 These numbers should be eclipsed soon. We already know AI can automate coding. But that's just one [small part](https://orischwartz.com/posts/even-with-fleet-of-coding-agents.html) of building a software business.
 
-Many customer support tickets are repetitive and can be resolved with a playbook so it should be possible to automate. But it's unclear whether any company has done it successfully at scale. Like everything in the AI hype cycle it's hard to know what's real and what's just a [good headline](https://www.fastcompany.com/91468582/klarna-tried-to-replace-its-workforce-with-ai).
+Many customer support tickets are repetitive and can be resolved with a playbook so it should be possible to automate. But it's unclear whether any company has done it successfully at scale. Like everything in the AI hype cycle, it's hard to know what's real and what's just a [good headline](https://www.fastcompany.com/91468582/klarna-tried-to-replace-its-workforce-with-ai).
 
 Another interesting area where AI can help is incident response. Today, when production breaks, a groggy on-call engineer scans a few dashboards and application logs. They move down the list of possible culprits (is a deploy in progress, what was the last commit, was a configuration change made, is the database under heavy load, etc). AI can check all of those things simultaneously and then tell you where to look first. Many engineers are already doing this manually (e.g., by connecting an LLM to DataDog via MCP). There will be a [product](https://resolve.ai) that makes it easier to do this.
 
-Maybe $100m is not realistic but your leverage is definitely growing. I'm excited to see how far we can go.
+Maybe $100m is not realistic but your leverage is definitely growing. I'm excited to see how far it can go.
