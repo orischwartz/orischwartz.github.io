@@ -18,7 +18,7 @@ Layoffs are quickly forgotten and blue-chip companies like Google and Meta retai
 
 Some of these aren't even real "layoffs"—they're just business as usual, cutting bottom performers and business units that are no longer a priority. Meta does this aggressively. Companies [outside of tech](https://www.wsj.com/finance/banking/morgan-stanley-lays-off-2-500-employees-across-all-divisions-5e6d4b25) do it all the time too. Some hires work out, some don't.
 
-Big Tech new-hire interviews yield a lot of false positives so cutting low performers is an important part of the process. Interviews do not evaluate a candidate's ability to ship working software or be an effective teammate. They only test the ability to grind [LeetCode](https://leetcode.com/) style questions. The best teammates I've ever had might ace or bomb this interview on any given day. And some of the most useless teammates are the most brilliant LeetCode problem solvers.
+Big Tech new-hire interviews yield a lot of false positives so cutting low performers is an important part of the process. Engineering interviews do not evaluate a candidate's ability to ship working software or be an effective teammate. They only test the ability to grind [LeetCode](https://leetcode.com/) style questions. The best teammates I've ever had might ace or bomb this interview on any given day. And some of the most useless teammates are the most brilliant LeetCode problem solvers.
 
 All this means big tech makes a lot of hiring mistakes. Layoffs have nothing to do with being replaced by AI. The press release will always reflect the best narrative and claiming AI efficiency is a better story for a public company than just admitting they over-hired.
 
