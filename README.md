@@ -1,0 +1,1 @@
+GitHub [Pages](https://docs.github.com/en/pages/quickstart) Markdown blog.
