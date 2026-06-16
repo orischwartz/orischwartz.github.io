@@ -28,10 +28,10 @@ Iteration speed is always important but for startups it is critical. One way to 
 
 So [FriendFeed repurposed the dependable MySQL](https://backchannel.org/blog/friendfeed-schemaless-mysql) relational database into a schema-less NoSQL db. It allowed them to add new features quickly, with no index or schema modifications, while scaling to 250M rows (this was a lot back then). And they got all the stability and tooling benefits of running on a mature ([boring](https://boringtechnology.club/)) technology.
 
-10x decisions often have this shape: repurpose something that already exists for a new use. Bucheit was able to [build the first prototype of gmail in "one day"](https://www.youtube.com/watch?v=xsxM0YIsgx4) because he adapted his email to fit into an existing project that made usenet discussions searchable.
+10x decisions often have this shape: repurpose something that already exists for a new use. Bucheit was able to [build the first prototype of gmail in "one day"](https://www.youtube.com/watch?v=xsxM0YIsgx4) because he adapted his email to fit into an existing project that made [Usenet](https://en.wikipedia.org/wiki/Usenet) discussions searchable.
 
-A smart design choice early can save your team months or even years of wasted effort. It can make the difference between success and failure. The potential impact is limitless. It's analogous to the way Jeff Bezos [describes business outcomes](https://www.goodreads.com/quotes/10886669-we-all-know-that-if-you-swing-for-the-fences):
+A smart design choice early can save your team months or even years of wasted effort. It can make the difference between success and failure. The potential impact is limitless. It's similar to the way Jeff Bezos [described business outcomes](https://www.goodreads.com/quotes/10886669-we-all-know-that-if-you-swing-for-the-fences):
 
 > We all know that if you swing for the fences, you're going to strike out a lot, but you're also going to hit some home runs. The difference between baseball and business, however, is that baseball has a truncated outcome distribution. When you swing, no matter how well you connect with the ball, the most runs you can get is four. In business, every once in a while, when you step up to the plate, you can score 1,000 runs.
 
-This is a realistic way for engineers to make 10x contributions: improve your business's chances of success.
+Most of us can't be the kind of 10xer that rewrites the codebase overnight. But we can make smart decisions that improve the business's chance of success, especially in the early stages.
