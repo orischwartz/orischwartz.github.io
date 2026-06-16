@@ -26,7 +26,7 @@ Taylor and Bucheit were cofounders of FriendFeed, a startup that Facebook acquir
 
 Iteration speed is always important but for startups it is critical. One way to stay flexible and move quickly is with a schema-less database (NoSQL). But this technology didn't exist (or was [unstable](https://couchdb.apache.org)) when FriendFeed was founded in 2007.
 
-So [FriendFeed repurposed the dependable MySQL](https://backchannel.org/blog/friendfeed-schemaless-mysql) relational database into a schema-less NoSQL db. It allowed them to continue adding new features quickly (no index or schema modifications) while scaling. And they got all the stability and tooling benefits of running on a mature ([boring](https://boringtechnology.club/)) technology.
+So [FriendFeed repurposed the dependable MySQL](https://backchannel.org/blog/friendfeed-schemaless-mysql) relational database into a schema-less NoSQL db. It allowed them to add new features quickly, with no index or schema modifications, while scaling to 250M rows (this was a lot back then). And they got all the stability and tooling benefits of running on a mature ([boring](https://boringtechnology.club/)) technology.
 
 10x decisions often have this shape: repurpose something that already exists for a new use. Bucheit was able to [build the first prototype of gmail in "one day"](https://www.youtube.com/watch?v=xsxM0YIsgx4) because he adapted his email to fit into an existing project that made usenet discussions searchable.
 
