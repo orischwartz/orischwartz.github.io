@@ -1,5 +1,6 @@
 ## Posts
 
+- [There's more than one way to be a 10x engineer](posts/theres-more-than-one-way-to-be-a-10x-engineer.md) - June 16, 2026
 - [AI Job Loss is Not Real](posts/ai-job-loss-is-not-real.md) - April 28, 2026
 - [What's the biggest business you could run alone?](posts/whats-the-biggest-business-you-could-run-alone.md) - March 26, 2026
 - [Google Rewrites Applications Every Few Years. Can You?](posts/google-rewrites-applications-every-few-years.md) - March 3, 2026
